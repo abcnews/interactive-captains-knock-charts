@@ -1,6 +1,8 @@
-#interactive-captains-knock-charts
+# Captains' knocks
 
-Visualisation of Australian captain's batting records.
+Visualisation of Australian cricket captains' batting records.
+
+![Visualisation of Australian cricket captains' batting records.](/screenshot.png)
 
 ## Dependencies
 
