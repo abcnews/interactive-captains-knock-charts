@@ -1,6 +1,7 @@
 # Captains' knocks
 
-Visualisation of Australian cricket captains' batting records.
+Visualisation of Australian cricket captains' batting records. Built for a [*Michael Clarke,
+an enigma to the end*](http://www.abc.net.au/news/2015-08-25/michael-clarke-retirement-enigma/6722364), published to mark the retirement of Michael Clarke.
 
 ![Visualisation of Australian cricket captains' batting records.](/screenshot.png)
 
